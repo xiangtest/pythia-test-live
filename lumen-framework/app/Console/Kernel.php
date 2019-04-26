@@ -3,7 +3,7 @@
 namespace App\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
-use Laravel\Lumen\Console\Kernel as ConsoleKernel;
+use Laravel\Lumen\Console\Kernel as ChangeHere;
 
 class Kernel extends ConsoleKernel
 {
