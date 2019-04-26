@@ -11,7 +11,7 @@
 |
 */
 
-$app = require __DIR__.'/../bootstrap/app.php';
+$app123 = require __DIR__.'/../bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -25,4 +25,4 @@ $app = require __DIR__.'/../bootstrap/app.php';
 |
 */
 
-$app->run();
+$app123->run();
