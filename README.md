@@ -7,3 +7,4 @@ test
 - Add line
 - Add line 2
 - Add again
+- run pythia for first time
