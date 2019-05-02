@@ -1,5 +1,5 @@
 php:
-  preset: laravel
+  preset: laravel/lumen
   disabled:
     - unused_use
 js: true
