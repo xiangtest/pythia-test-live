@@ -1,3 +1,3 @@
-composer unit-test
+composer unit-test test
 composer functional-test
 composer integration-test
