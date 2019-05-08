@@ -1,7 +1,8 @@
 {
-	"project": "pythia-test-live1",
+	"project": "pythia-test-live",
 	"files":
-	[	"README.md",	
+	[	"lumen-framework/ignorefiles/IgnoreFileCase3.php",
+		"lumen-framework/ignorefiles/IgnoreFileCase2.php",	
 		"README.md",
 		"lumen-framework/composer.json"
 	]
