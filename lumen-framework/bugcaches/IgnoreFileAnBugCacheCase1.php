@@ -1,7 +1,7 @@
 <?php
 class mock {
 
-        public function method1UpdatedByPrerequisite2()
+        public function method1UpdatedByPrerequisite2_updatedBUT()
         {
                 //code goes here
         }
