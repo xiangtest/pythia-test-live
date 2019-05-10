@@ -1,7 +1,7 @@
 <?php
 class mock {
 
-        public `function method1UpdatedByBUT()
+        public function method1()
         {
                 //code goes here
         }
