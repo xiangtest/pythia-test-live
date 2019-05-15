@@ -14,7 +14,6 @@ class mock
     {
         $variable = "string tests";
         $test = 'test';
-
         return $variable;
     }
 }
