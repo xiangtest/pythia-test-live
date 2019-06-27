@@ -32,6 +32,6 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
 
     public function coolMethodName()
     {
-	    return 'this is cool';
+	    return $stupidVar;
     }
 }
