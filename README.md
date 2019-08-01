@@ -3,7 +3,8 @@ test
 - Step 1
 - Step 2
 - Step 3
-- Step 4 case 4 pre commit modify
-- Add line
+- Step 4 sscscsdcsdcsddddd
+- Add line sadsadasdasd
 - Add line 2
 - Add again
+test and again and again
