@@ -8,7 +8,7 @@ class mock {
 
         public function method2()
         {
-                $variable = "string tests";
+                $variable = "string tests"; //
                 return $variable
         }
 }
